@@ -88,7 +88,7 @@ Feel free to make a pull request with missing channel.
 - [Smashing Magazine](https://vimeo.com/smashingmagazine)
 - [Fronteers](https://vimeo.com/fronteers)
 - [ScotlandJS](https://www.youtube.com/channel/UCpW0Vh7QKPA7n0oJfrizlsw)
-- [Pusher](https://www.youtube.com/user/pusherapp) — Front-end London, AsyncJS, JS Monthly London, JSOxford
+- [Sessions by Pusher](https://pusher.com/sessions) — Front-end London, AsyncJS, JS Monthly London, JSOxford
 - [Codegram Technologies](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg) — Full Stack Fest
 - [Modern Web](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
@@ -101,6 +101,9 @@ Feel free to make a pull request with missing channel.
 - [ViennaJS](https://www.youtube.com/channel/UChgAsJYZYZMFII4cvg8W09w)
 - [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
 - [JS Kongress](https://www.youtube.com/channel/UCe2uw4y9oTxfq-Z61ODWRhg)
+- [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
+- [White October Events](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
+- [Frontend NE](https://www.youtube.com/channel/UC-OBXzVskg2wGe8LWXFdejA)
 
 ## Russian language
 
