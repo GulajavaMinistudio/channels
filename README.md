@@ -105,6 +105,8 @@ Feel free to make a pull request with missing channel.
 - [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
 - [White October Events](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
 - [Frontend NE](https://www.youtube.com/channel/UC-OBXzVskg2wGe8LWXFdejA)
+- [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
+- [ReactEurope](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
 
 ## Russian language
 
@@ -176,6 +178,9 @@ Feel free to make a pull request with missing channel.
 - [pitercss_meetup](https://www.youtube.com/channel/UCrttsZVR3TmMzIZIqtqD6ZA)
 - [MinskJS](https://www.youtube.com/channel/UClp8fFQIhFWT9uSmFYx41RA)
 - [moscowcss](https://www.youtube.com/channel/UCRZiFovkS0ROP85TxP3oV4Q)
+- [fwdays](https://www.youtube.com/user/fwdays)
+- [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg)
+- [Ontico Team](https://www.youtube.com/user/profyclub)
 
 ## French language
 
