@@ -160,7 +160,7 @@ Feel free to make a pull request with missing channel.
 - [SPB Frontend](https://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA)
 - [FrontTalks](https://www.youtube.com/channel/UCD1AEzxJfQfd01NChlpVeKA)
 - [KharkivJS Community](https://www.youtube.com/channel/UCYCPt7SWMZa4T8GwkQ-K-0A)
-- [KharkivCSS Community](https://www.youtube.com/channel/UC-R0SL5AsnnvDO2zf__7yPw)
+- [KharkivCSS Conf](https://www.youtube.com/channel/UC-R0SL5AsnnvDO2zf__7yPw)
 - [FrontendFellows](https://www.youtube.com/channel/UCtKM34uT6t5BD0Dr1wobs5w)
 - [Badoo Development](https://www.youtube.com/user/badoodev)
 - [Yaroslavl Frontend](https://www.youtube.com/watch?v=s9JJ_PbVCIA&list=PLZinVxOM_0dK8JAsrNIwZkNn3vbRWBaex)
@@ -181,6 +181,7 @@ Feel free to make a pull request with missing channel.
 - [fwdays](https://www.youtube.com/user/fwdays)
 - [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg)
 - [Ontico Team](https://www.youtube.com/user/profyclub)
+- [UralJS](https://www.youtube.com/channel/UCyRou_txbZBZ_aT5duHaQXw)
 
 ## French language
 
