@@ -74,6 +74,8 @@ Feel free to make a pull request with missing channel.
 - [The Coding Train](https://www.youtube.com/user/shiffman) — a lot of interesting stuff on computer science and programming fundamentals
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) — CSS frameworks (Bootstrap, Foundation), jQuery, ES6, Node.js, Angular, Ionic, React, Flux
 - [Java Brains](https://www.youtube.com/user/koushks) — JavaScript, Angular
+- [Sam Saccone](https://www.youtube.com/channel/UCxmVqdNdRsNhXpb0uvtXOYg) — Performance optimization
+- [Computerphile](https://www.youtube.com/user/Computerphile) — lots of videos on general computer science topics
 
 ### Conferences and meetups recordings
 
@@ -108,6 +110,8 @@ Feel free to make a pull request with missing channel.
 - [Frontend NE](https://www.youtube.com/channel/UC-OBXzVskg2wGe8LWXFdejA)
 - [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
 - [ReactEurope](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
+- [Script](https://www.youtube.com/channel/UCVbaJU4SUrQrrNs820aZAfQ)
+- [DinosaurJS](https://www.youtube.com/channel/UCc_y38wjXbStHx8qcFIvTIQ)
 
 ## Russian language
 
@@ -183,6 +187,7 @@ Feel free to make a pull request with missing channel.
 - [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg)
 - [Ontico Team](https://www.youtube.com/user/profyclub)
 - [UralJS](https://www.youtube.com/channel/UCyRou_txbZBZ_aT5duHaQXw)
+- [React Kyiv](https://www.youtube.com/channel/UCsujMNYN0c8ehIPj4oA8_zg)
 
 ## French language
 
