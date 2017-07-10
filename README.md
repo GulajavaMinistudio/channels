@@ -149,6 +149,7 @@ Feel free to make a pull request with missing channel.
 - [Javascript.Ninja](https://www.youtube.com/channel/UCW9pyonagDWGMCy7V_Kro6g) — JavaScript, Node.js, Vue.js
 - [Dev Talk](https://www.youtube.com/channel/UC6WoOFmr4zhuUdVK9Hgh0tA) — Vim
 - [Habrahabr](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w) — доклады и интервью с конференции HighLoad++
+- [ALL YOUR HTML (Юрий Артюх)](https://www.youtube.com/user/flintyara) — лайвстримы по вёрстке и анимации
 
 ### Conferences and meetups recordings
 
@@ -188,6 +189,7 @@ Feel free to make a pull request with missing channel.
 - [Ontico Team](https://www.youtube.com/user/profyclub)
 - [UralJS](https://www.youtube.com/channel/UCyRou_txbZBZ_aT5duHaQXw)
 - [React Kyiv](https://www.youtube.com/channel/UCsujMNYN0c8ehIPj4oA8_zg)
+- [Angular Moscow](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
 
 ## French language
 
