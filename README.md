@@ -9,6 +9,7 @@ Feel free to make a pull request with missing channel.
 - [Russian language](#russian-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-1)
 - [French language](#french-language)
+- [Arabic language](#arabic-language)
 - [Portuguese language](#portuguese-language)
 - [Czech language](#czech-language)
 - [Hebrew language](#hebrew-language)
@@ -77,6 +78,8 @@ Feel free to make a pull request with missing channel.
 - [Sam Saccone](https://www.youtube.com/channel/UCxmVqdNdRsNhXpb0uvtXOYg) — Performance optimization
 - [Computerphile](https://www.youtube.com/user/Computerphile) — lots of videos on general computer science topics
 - [CodeWorkr](https://www.youtube.com/channel/UCfYTu_qAO5T7a-8rC_74Ypw) — JavaScript, Node.js, REST API
+- [OK GROW!](https://www.youtube.com/channel/UCemC4xuL1cZhVlixuoEjtSg/feed) — Meteor, HashBang podcast, Transmission podcast
+- [RoboSquidTV](https://www.youtube.com/channel/UC7vYUkA-s5XVjS7UoyGSFbg) — basics of HTML/CSS, CSS animations, live web design
 
 ### Conferences and meetups recordings
 
@@ -115,6 +118,8 @@ Feel free to make a pull request with missing channel.
 - [DinosaurJS](https://www.youtube.com/channel/UCc_y38wjXbStHx8qcFIvTIQ)
 - [AmsterdamJS](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
 - [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ)
+- [NebraskaJS](https://www.youtube.com/channel/UCsMSRfQ22gGRLu5kRBMYpjg)
+- [Design Systems Coalition NYC](https://www.youtube.com/channel/UC0qWdJQb-hCUVp4ZfbPuPUQ)
 
 ## Russian language
 
@@ -154,6 +159,7 @@ Feel free to make a pull request with missing channel.
 - [Habrahabr](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w) — доклады и интервью с конференции HighLoad++
 - [ALL YOUR HTML (Юрий Артюх)](https://www.youtube.com/user/flintyara) — лайвстримы по вёрстке и анимации
 - [CSSSR](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) — лайвстримы, Vue.js
+- [.getInstance](https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg) — короткие обзоры возможностей JavaScript, браузерных API и инструментов
 
 ### Conferences and meetups recordings
 
@@ -194,10 +200,16 @@ Feel free to make a pull request with missing channel.
 - [UralJS](https://www.youtube.com/channel/UCyRou_txbZBZ_aT5duHaQXw)
 - [React Kyiv](https://www.youtube.com/channel/UCsujMNYN0c8ehIPj4oA8_zg)
 - [Angular Moscow](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
+- [ChernivtsiJS](https://www.youtube.com/channel/UCYEzRVsalLCq36XZXZjujjw)
+- [Krasnodar Dev Days](https://www.youtube.com/channel/UCBVZa_qgKhT8_MMqvR0bNQA)
 
 ## French language
 
 - [Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) — HTML, CSS, JavaScript, NodeJS
+
+## Arabic language
+
+- [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - HTML, CSS, Sass, JavaScript, jQuery, PHP, Ajax, Bootstrap, MySQL, WordPress.
 
 ## Portuguese language
 
