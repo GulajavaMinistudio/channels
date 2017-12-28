@@ -80,6 +80,7 @@ Feel free to make a pull request with missing channel.
 - [CodeWorkr](https://www.youtube.com/channel/UCfYTu_qAO5T7a-8rC_74Ypw) — JavaScript, Node.js, REST API
 - [OK GROW!](https://www.youtube.com/channel/UCemC4xuL1cZhVlixuoEjtSg/feed) — Meteor, HashBang podcast, Transmission podcast
 - [RoboSquidTV](https://www.youtube.com/channel/UC7vYUkA-s5XVjS7UoyGSFbg) — basics of HTML/CSS, CSS animations, live web design
+- [SketchpunkLabs](https://www.youtube.com/channel/UCSnyjB_8iVxi2ZAfn_1L6tA) — WebGL 2 screencasts
 
 ### Conferences and meetups recordings
 
@@ -120,6 +121,7 @@ Feel free to make a pull request with missing channel.
 - [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ)
 - [NebraskaJS](https://www.youtube.com/channel/UCsMSRfQ22gGRLu5kRBMYpjg)
 - [Design Systems Coalition NYC](https://www.youtube.com/channel/UC0qWdJQb-hCUVp4ZfbPuPUQ)
+- [Compose Conference](https://www.youtube.com/channel/UC0pEknZxL7Q1j0Ok8qImWdQ)
 
 ## Russian language
 
@@ -160,6 +162,7 @@ Feel free to make a pull request with missing channel.
 - [ALL YOUR HTML (Юрий Артюх)](https://www.youtube.com/user/flintyara) — лайвстримы по вёрстке и анимации
 - [CSSSR](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) — лайвстримы, Vue.js
 - [.getInstance](https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg) — короткие обзоры возможностей JavaScript, браузерных API и инструментов
+- [VueJS.fun](https://www.youtube.com/channel/UCrpvmiGAeKSkmM-fpyuwYjw) — скринкасты по Vue.js
 
 ### Conferences and meetups recordings
 
