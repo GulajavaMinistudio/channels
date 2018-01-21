@@ -14,10 +14,11 @@ Feel free to make a pull request with missing channel.
 - [Czech language](#czech-language)
 - [Hebrew language](#hebrew-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-2)
-- [Polish language](#hebrew-language)
+- [Polish language](#polish-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-3)
 - [Dutch language](#dutch-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-4)
+- [Spanish language](#spanish-language)
 - [Live coding streams](#live-coding-streams)
 
 ## English language
@@ -81,6 +82,7 @@ Feel free to make a pull request with missing channel.
 - [OK GROW!](https://www.youtube.com/channel/UCemC4xuL1cZhVlixuoEjtSg/feed) — Meteor, HashBang podcast, Transmission podcast
 - [RoboSquidTV](https://www.youtube.com/channel/UC7vYUkA-s5XVjS7UoyGSFbg) — basics of HTML/CSS, CSS animations, live web design
 - [SketchpunkLabs](https://www.youtube.com/channel/UCSnyjB_8iVxi2ZAfn_1L6tA) — WebGL 2 screencasts
+- [Ben Awad](https://www.youtube.com/user/99baddawg) — React, React Native, Redux, MobX, GraphQL, Next.js, software architecture
 
 ### Conferences and meetups recordings
 
@@ -122,6 +124,7 @@ Feel free to make a pull request with missing channel.
 - [NebraskaJS](https://www.youtube.com/channel/UCsMSRfQ22gGRLu5kRBMYpjg)
 - [Design Systems Coalition NYC](https://www.youtube.com/channel/UC0qWdJQb-hCUVp4ZfbPuPUQ)
 - [Compose Conference](https://www.youtube.com/channel/UC0pEknZxL7Q1j0Ok8qImWdQ)
+- [ColdFront](https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw)
 
 ## Russian language
 
@@ -163,6 +166,9 @@ Feel free to make a pull request with missing channel.
 - [CSSSR](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) — лайвстримы, Vue.js
 - [.getInstance](https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg) — короткие обзоры возможностей JavaScript, браузерных API и инструментов
 - [VueJS.fun](https://www.youtube.com/channel/UCrpvmiGAeKSkmM-fpyuwYjw) — скринкасты по Vue.js
+- [SkillBranch](https://www.youtube.com/channel/UCWLKyJUZ32GJvSIisQjU3kw) — дизайн, Node.js + React
+- [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA/playlists) — вёрстка, JavaScript, Pug, Gulp
+
 
 ### Conferences and meetups recordings
 
@@ -205,6 +211,7 @@ Feel free to make a pull request with missing channel.
 - [Angular Moscow](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
 - [ChernivtsiJS](https://www.youtube.com/channel/UCYEzRVsalLCq36XZXZjujjw)
 - [Krasnodar Dev Days](https://www.youtube.com/channel/UCBVZa_qgKhT8_MMqvR0bNQA)
+- [FrontFest](https://www.youtube.com/channel/UCPRrzC1XcqKJWoKsqS4MDtA)
 
 ## French language
 
@@ -223,6 +230,9 @@ Feel free to make a pull request with missing channel.
 - [Loiane Groner](https://www.youtube.com/user/Loianeg) — JavaScript, Angular 2, Phonegap/Cordova, CSS3, Sass, Compass
 - [Css CastShow](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA) — CSS, Polymer
 - [UpInside Treinamentos](https://www.youtube.com/user/UpInsideBr) — HTML, CSS
+- [João Ribeiro](https://www.youtube.com/user/JLDRPT) — HTML, CSS, Javascript, Angular, TypeScript
+- [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/) — HTML
+- [Tony França](https://www.youtube.com/channel/UCOnW_nxKxwXOS-KPuv2YEKA) — Vue.js, Angular
 
 ## Czech language
 
@@ -253,6 +263,10 @@ Feel free to make a pull request with missing channel.
 ### Conferences and meetups recordings
 
 - [Fronteers](https://fronteers.nl/videos) — HTML, CSS, JavaScript
+
+## Spanish language
+
+- [NodersJS](https://www.youtube.com/channel/UC7tUsO3S7424TMcgSCUOCow/) — Node.js, spanish meetups recordings
 
 ## Live coding streams
 
