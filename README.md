@@ -86,6 +86,7 @@ Feel free to make a pull request with missing channel.
 - [Zell Liew](https://www.youtube.com/user/zellwk) — tooling, tips & tricks
 - [Ana Tudor](https://www.youtube.com/user/anaix3l) — CSS and SVG animation
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) — JavaScript, jQuery, React, data structures, mathematics, computer science
+- [Prisma](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w) — GraphQL
 
 ### Conferences and meetups recordings
 
@@ -132,6 +133,9 @@ Feel free to make a pull request with missing channel.
 - [CSSConf Australia](https://www.youtube.com/channel/UCaitlwoIzU4HIkkRgmpDO8w)
 - [React Finland](https://www.youtube.com/channel/UCYRsLerK8J8uGWXFaprYa2A)
 - [Frontend United](https://www.youtube.com/channel/UC6Q3-JjgMpb4Uy6YgHdJSMw)
+- [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA)
+- [Web Conferences Amsterdam](https://vimeo.com/webconferences)
+- [JSCamp](https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ)
 
 ## Russian
 
@@ -219,6 +223,7 @@ Feel free to make a pull request with missing channel.
 - [ChernivtsiJS](https://www.youtube.com/channel/UCYEzRVsalLCq36XZXZjujjw)
 - [Krasnodar Dev Days](https://www.youtube.com/channel/UCBVZa_qgKhT8_MMqvR0bNQA)
 - [FrontFest](https://www.youtube.com/channel/UCPRrzC1XcqKJWoKsqS4MDtA)
+- [JS NN](https://www.youtube.com/channel/UC4OQwFvLMPVFTqb0hyqknSw)
 
 ## French
 
