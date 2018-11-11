@@ -136,6 +136,11 @@ Feel free to make a pull request with missing channel.
 - [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA)
 - [Web Conferences Amsterdam](https://vimeo.com/webconferences)
 - [JSCamp](https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ)
+- [Web Audio Conf](https://www.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw)
+- [London Accessibility Meetup](https://www.youtube.com/channel/UCDIVL2ytbhD9ZCn8GaEIi_g)
+- [GraphQL Finland](https://www.youtube.com/channel/UCReJkc0nO9jhVTNgm5psuFA)
+- [Dev Edmonton](https://www.youtube.com/channel/UCBC21Bfijpx4CCpjnBUdypg) — Exchange.js meetup
+- [ReactiveConf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
 
 ## Russian
 
