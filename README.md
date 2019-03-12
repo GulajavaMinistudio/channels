@@ -87,6 +87,7 @@ Feel free to make a pull request with missing channel.
 - [Ana Tudor](https://www.youtube.com/user/anaix3l) — CSS and SVG animation
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) — JavaScript, jQuery, React, data structures, mathematics, computer science
 - [Prisma](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w) — GraphQL
+- [AngularAir](https://www.youtube.com/c/AngularAirPodcast) - A live videocast all about Angular
 
 ### Conferences and meetups recordings
 
@@ -186,6 +187,7 @@ Feel free to make a pull request with missing channel.
 - [SkillBranch](https://www.youtube.com/channel/UCWLKyJUZ32GJvSIisQjU3kw) — дизайн, Node.js + React
 - [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA/playlists) — вёрстка, JavaScript, Pug, Gulp
 - [Timur Shemsedinov](https://www.youtube.com/user/sthxnp) — скринкасты академического уровня по JavaScript и Node.js
+- [ngRuAir](https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ) - лайвстримы про Angular
 
 
 ### Conferences and meetups recordings
