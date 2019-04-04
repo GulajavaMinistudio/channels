@@ -89,6 +89,8 @@ Feel free to make a pull request with missing channel.
 - [Prisma](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w) — GraphQL
 - [AngularAir](https://www.youtube.com/c/AngularAirPodcast) - A live videocast all about Angular
 - [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw) - Javascript, React, live coding
+- [Coding with Dom](https://www.youtube.com/channel/UC1bvBZB7iL2goVOxSALVbCg) - Javascript, End-to-end testing, NightwatchJS, live coding
+- [Up & Running Tutorials](https://www.youtube.com/channel/UCrebROsxqMJJFN5uxoG1f2Q) - React, Gatsby
 
 ### Conferences and meetups recordings
 
@@ -189,6 +191,7 @@ Feel free to make a pull request with missing channel.
 - [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA/playlists) — вёрстка, JavaScript, Pug, Gulp
 - [Timur Shemsedinov](https://www.youtube.com/user/sthxnp) — скринкасты академического уровня по JavaScript и Node.js
 - [ngRuAir](https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ) - лайвстримы про Angular
+- [devschacht](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg) - скринкасты, подкасты, интервью, Node.js
 
 
 ### Conferences and meetups recordings
