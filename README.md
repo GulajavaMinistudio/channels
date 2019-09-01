@@ -92,6 +92,7 @@ Feel free to make a pull request with missing channel.
 - [Coding with Dom](https://www.youtube.com/channel/UC1bvBZB7iL2goVOxSALVbCg) - Javascript, End-to-end testing, NightwatchJS, live coding
 - [Up & Running Tutorials](https://www.youtube.com/channel/UCrebROsxqMJJFN5uxoG1f2Q) - React, Gatsby
 - [CodyHouse ](https://www.youtube.com/channel/UCQhxjJcgCwDW_2JqlDBsWtA) - CSS, Sass, tutorials, screencasts
+- [keyframers ](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA) - CSS, Sass, animations, tutorials, live coding, screencasts
 
 ### Conferences and meetups recordings
 
@@ -128,7 +129,7 @@ Feel free to make a pull request with missing channel.
 - [ReactEurope](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
 - [Script](https://www.youtube.com/channel/UCVbaJU4SUrQrrNs820aZAfQ)
 - [DinosaurJS](https://www.youtube.com/channel/UCc_y38wjXbStHx8qcFIvTIQ)
-- [AmsterdamJS](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
+- [JSNation](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
 - [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ)
 - [NebraskaJS](https://www.youtube.com/channel/UCsMSRfQ22gGRLu5kRBMYpjg)
 - [Design Systems Coalition NYC](https://www.youtube.com/channel/UC0qWdJQb-hCUVp4ZfbPuPUQ)
