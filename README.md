@@ -94,6 +94,7 @@ Feel free to make a pull request with missing channel.
 - [CodyHouse ](https://www.youtube.com/channel/UCQhxjJcgCwDW_2JqlDBsWtA) - CSS, Sass, tutorials, screencasts
 - [keyframers ](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA) - CSS, Sass, animations, tutorials, live coding, screencasts
 - [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w) - CSS, DevTools, tips & tricks
+- [Alex Carpenter](https://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg) - HTML, CSS, & JavaScript
 
 ### Conferences and meetups recordings
 
@@ -126,7 +127,7 @@ Feel free to make a pull request with missing channel.
 - [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
 - [White October Events](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
 - [Frontend NE](https://www.youtube.com/channel/UC-OBXzVskg2wGe8LWXFdejA)
-- [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
+- [GitNation React Conferences](https://www.youtube.com/c/ReactConferences)
 - [ReactEurope](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
 - [Script](https://www.youtube.com/channel/UCVbaJU4SUrQrrNs820aZAfQ)
 - [DinosaurJS](https://www.youtube.com/channel/UCc_y38wjXbStHx8qcFIvTIQ)
@@ -151,6 +152,7 @@ Feel free to make a pull request with missing channel.
 - [React Day Berlin](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw)
 - [JAMstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
 - [CSScamp](https://www.youtube.com/channel/UCKmKXWKTnQjkh4SBxg-nWZg)
+- [React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
 
 ## Russian
 
